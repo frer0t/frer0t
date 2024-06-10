@@ -1,4 +1,4 @@
-[![](https://github.com/iamfrerot/iamfrerot/blob/main/dd.gif)](https://frerot.dev)
+[![](https://github.com/iamfrerot/iamfrerot/blob/main/my.gif)](https://frerot.dev)
 
 ### Languages
 
