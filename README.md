@@ -1,6 +1,6 @@
 [![](https://github.com/iamfrerot/iamfrerot/blob/main/my.gif)](https://frerot.dev)
 
-### <h3 aligh="left">I Code With:</h3>###
+### <h3 aligh="left">I Code With:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
