@@ -1,5 +1,4 @@
-[![](https://github.com/iamfrerot/iamfrerot/blob/main/my.gif)](https://frerot.dev){:target="_blank"}
-
+<a href="https://frerot.dev" target="_blank"><img src="https://github.com/iamfrerot/iamfrerot/blob/main/my.gif" alt="image description"></a>
 ### <h3 aligh="left">I Code With:</h3>
 
 <div align="left">
