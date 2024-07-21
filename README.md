@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img src="https://i.ibb.co/dmkzqbP/react-nativ.png" alt="react-nativ" width="20" height="35" />
+  <img src="https://i.ibb.co/dmkzqbP/react-nativ.png" alt="react-nativ" width="35" height="35" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="jest logo"  />
   <img width="20" />
