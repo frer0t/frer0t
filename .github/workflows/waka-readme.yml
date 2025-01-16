@@ -1,0 +1,29 @@
+name: waka readme
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 8 * * *"
+
+jobs:
+  update-readme:
+    name: waka readme dev metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: ${{secrets.WAKATIME_URL}}
+          BLOCKS: ░░░░░░░░███████
+          LANG_COUNT: 8
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+          IGNORED_LANGUAGES: YAML JSON TOML Smarty Bash XML
+          COMMIT_MESSAGE: "chore: updated waka-readme graph with new metrics "
+          COMMITTER_NAME: actions
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: iamfrerot
+          AUTHOR_EMAIL: 149209283+iamfrerot@users.noreply.github.com

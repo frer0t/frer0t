@@ -1,31 +1,37 @@
-<a href="https://frerot.dev" target="_blank"><img src="https://github.com/iamfrerot/iamfrerot/blob/main/my.gif" alt="image description"></a>
-### <h3 aligh="left">I Code With:</h3>
+### ✌️ hi !! i'm a frerot
 
-<div style="display: flex; gap: 2rem; justify-content: flex-start;">
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <!-- TypeScript -->
-  <img src="https://www.typescriptlang.org/favicon.ico" height="35" alt="typescript logo" />
-  <!--  Java -->
-  <img src="https://img.icons8.com/color/480/java-coffee-cup-logo--v1.png" height="45" alt="Java Logo"/>
-  <!-- Tailwind -->
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" />
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-  <!-- Next -->
-  <img src="https://nextjs.org/favicon.ico" height="35" alt="next logo"/>
-  <!-- React Native -->
-  <img src="https://i.ibb.co/dmkzqbP/react-nativ.png" alt="react-nativ" width="35" height="35" />
-  <!-- Jest -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="jest logo" />
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" />
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
-  <!-- Node.js -->
-  <img src="https://nodejs.org/static/images/favicons/favicon.png" height="35" alt="nodejs logo" />
-  <!-- Express.js -->
-  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo" />
-  <!-- Spring Boot -->
-  <img src="https://spring.io/favicon.svg?v=96334d577af708644f6f0495dd1c7bc8" height="35" alt="Spring boot logo" />
-</div>
+welcome to my github profile! i'm passionate about technology, coding, and
+building cool projects. i enjoy learning new things and experimenting with
+different tools, that's how i learnt to code
+
+#### 🚀 my latest projects
+
+- [`iamfrerot/envario`](https://github.com/iamfrerot/envario) - _"validate and
+  load .env files with type-safe checks"_
+- [`iamfrerot/userverse`](https://github.com/iamfrerot/userverse) - _"api for
+  data analysis"_
+- [`iamfrerot/gobievents`](https://github.com/iamfrerot/gobievents) - _"Simple
+  event management created with next js"_
+
+#### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats from the last week
+
+<!--START_SECTION:waka-->
+
+```txt
+Java                  12 hrs 4 mins   ██████████░░░░░░░░░░░░░░░   39.90 %
+TypeScript            8 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   29.64 %
+Markdown              2 hrs 0 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+JavaScript            0 hrs 38 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+XML                   0 hrs 36 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+JSX                   0 hrs 22 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Bash                  0 hrs 10 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+```
+
+<!--END_SECTION:waka-->
+
+🎮 **fun fact**: when i’m not coding, you’ll probably find me shooting hoops on
+the basketball court 🏀 or cruising around on my bike 🚴‍♂️—both are my favorite
+ways to unwind. oh, and here’s a quirky thing about me: i’m a **die-hard
+lowercase enthusiast**. every message, note, and even my code comments embrace
+the chill, minimalist vibes of lowercase. it’s not just a style; it’s a whole
+vibe. 🤘
