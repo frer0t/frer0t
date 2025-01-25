@@ -8,7 +8,7 @@ different tools, that's how i learnt to code
 
 - [`iamfrerot/envario`](https://github.com/iamfrerot/envario) - _"validate and
   load .env files with type-safe checks"_
-- [`iamfrerot/userverse`](https://github.com/iamfrerot/userverse) - _"api for
+- [`iamfrerot/userverse`](https://github.com/iamfrerot/userverse) - _"creating api for
   data analysis"_
 - [`iamfrerot/gobievents`](https://github.com/iamfrerot/gobievents) - _"Simple
   event management created with next js"_
