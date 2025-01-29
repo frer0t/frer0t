@@ -18,13 +18,13 @@ different tools, that's how i learnt to code
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       5 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   37.70 %
-Java             4 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   31.68 %
-React            2 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Markdown         0 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Docker           0 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-JavaScript       0 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-HTML             0 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+TypeScript       6 hrs 49 mins   ███████████░░░░░░░░░░░░░░   42.76 %
+Java             4 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   29.76 %
+React            2 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Markdown         0 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Docker           0 hrs 20 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+JavaScript       0 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+HTML             0 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
