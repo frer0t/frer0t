@@ -4,15 +4,6 @@ welcome to my github profile! i'm passionate about technology, coding, and
 building cool projects. i enjoy learning new things and experimenting with
 different tools, that's how i learnt to code
 
-#### 🚀 my latest projects
-
-- [`iamfrerot/envario`](https://github.com/iamfrerot/envario) - _"validate and
-  load .env files with type-safe checks"_
-- [`iamfrerot/userverse`](https://github.com/iamfrerot/userverse) - _"creating api for
-  data analysis"_
-- [`iamfrerot/gobievents`](https://github.com/iamfrerot/gobievents) - _"Simple
-  event management created with next js"_
-
 #### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats from the last week
 
 <!--START_SECTION:waka-->
