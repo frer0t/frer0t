@@ -9,12 +9,12 @@ different tools, that's how i learnt to code
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     16 hrs 40 mins  ███████████████████░░░░░░   77.87 %
-Markdown       1 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-Python         0 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Java           0 hrs 35 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-CSS            0 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-React          0 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+TypeScript     14 hrs 30 mins  ███████████████████░░░░░░   77.54 %
+Markdown       1 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Python         0 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Java           0 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+CSS            0 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+React          0 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
