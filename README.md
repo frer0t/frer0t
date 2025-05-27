@@ -2,7 +2,9 @@
 
 welcome to my github profile! i'm passionate about technology, coding, and
 building cool projects. i enjoy learning new things and experimenting with
-different tools, that's how i learnt to code
+different tools, that's how i learnt to code. all my coding side projects
+can be found in the [_`tanjirobro`_](https://github.com/tanjirobro) organization,
+where i tinker and bring my wildest ideas to life!
 
 #### 📡 my [_`hackatime`_](https://waka.hackclub.com/) stats for last week
 
