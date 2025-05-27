@@ -1,4 +1,4 @@
-### ✌️ hi !! i'm frerot
+### ✌️ hi !! i'm frérot
 
 welcome to my github profile! i'm passionate about technology, coding, and
 building cool projects. i enjoy learning new things and experimenting with
