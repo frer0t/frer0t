@@ -17,8 +17,7 @@ CSS          0 hrs 17 mins   ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-🎮 **fun fact**: when i’m not coding, you’ll probably find me shooting hoops on
-the basketball court 🏀 or cruising around on my bike 🚴‍♂️—both are my favorite
+🎮 **fun fact**: when i’m not coding, you’ll probably find me 🏃🏽‍♂️ hitting the running trails or cruising around on my bike 🚴‍♂️ both are my favorite
 ways to unwind. oh, and here’s a quirky thing about me: i’m a **die-hard
 lowercase enthusiast**. every message, note, and even my code comments embrace
 the chill, minimalist vibes of lowercase. it’s not just a style; it’s a whole
