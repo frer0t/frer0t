@@ -11,10 +11,10 @@ where i tinker and bring my wildest ideas to life!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 42 mins  ████████████████████░░░░░   79.49 %
-Markdown     0 hrs 29 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-JavaScript   0 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-CSS          0 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+TypeScript   10 hrs 7 mins   ██████████████████████░░░   87.27 %
+HTML         0 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+CSS          0 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+JavaScript   0 hrs 10 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
