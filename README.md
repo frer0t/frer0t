@@ -4,7 +4,7 @@ welcome to my github profile! i'm passionate about technology, coding, and
 building cool projects. i enjoy learning new things and experimenting with
 different tools, that's how i learnt to code.
 
-#### 📡 my [_`hackatime`_](https://waka.hackclub.com/) stats for last week
+#### 📡 my [_`hackatime`_](https://hackatime.hackclub.com/leaderboards) stats for last week
 
 <!--START_SECTION:waka-->
 
