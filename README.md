@@ -14,5 +14,5 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-🎮 **fun fact**: when i’m not coding, you’ll probably find me 🏃🏽‍♂️ hitting the running trails or cruising around on my bike 🚴‍♂️ both are my favorite
+🎮 **fun fact**: when i’m not coding, you’ll probably find me 🏃🏽‍♂️ hitting the running trails or 🚴‍♂ cruising around on my bike both are my favorite
 ways to unwind. oh, and here’s a quirky thing about me: I care about clean code 🧼, **lowercase vibes** 🔡, and crushing [MonkeyType](https://monkeytype.com/profile/frerot) PBs ⌨️.
