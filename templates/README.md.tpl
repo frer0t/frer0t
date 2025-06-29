@@ -18,13 +18,6 @@ welcome to my github profile! i'm passionate about technology, coding, and build
 - [`{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_
 {{end}}
 
-#### 📡 my [_`hackatime`_](https://hackatime.hackclub.com) stats from the last week
-
-```text
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
-Total: {{ wakatimeData.HumanReadableTotal }}
-```
 
 🎮 **fun fact**: when i’m not coding, you’ll probably find me 🏃🏽‍♂️ hitting the running trails or 🚴‍♂ cruising around on my bike both are my favorite
 ways to unwind. oh, and here’s a quirky thing about me: I care about clean code 🧼, **lowercase vibes** 🔡, and crushing [MonkeyType](https://monkeytype.com/profile/frerot) PBs ⌨️.
