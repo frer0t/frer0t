@@ -1,15 +1,16 @@
-# hi !! i'm frérot
+### hi !! i'm frérot
 welcome to my github profile! i'm passionate about technology, coding, and building cool projects. i enjoy learning new things and experimenting with different tools, that's how i learnt to code.
 
 
-#### 👷 The latest repos I've pushed to
-{{range recentContributions 8}}
-- [`{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ **({{humanize .OccurredAt}})**
+#### ⌨️ My latest repos
+{{range recentCreatedRepos "frer0t" 3}}
+- [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
 {{- end}}
 
-#### ⌨️ My latest repos
-{{range recentCreatedRepos "frer0t" 4}}
-- [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
+
+#### 👷 The latest repos I've pushed to
+{{range recentContributions 3}}
+- [`{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ **({{humanize .OccurredAt}})**
 {{- end}}
 
 #### 📊 My latest contributions
