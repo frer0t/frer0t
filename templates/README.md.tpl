@@ -10,3 +10,5 @@ welcome to my github! i love clean code 🧼, building projects, and learning ne
 
 
 **fun fact**: when i’m not coding, i’m 🏃🏽‍♂️ running or 🚴‍♂ biking. i only write lowercase 🔡 + chasing [monkeytype](https://monkeytype.com/profile/frerot) pbs ⌨️.
+
+**contact**: [`mail[at]frerot.dev`](mailto:mail@frerot.dev)
