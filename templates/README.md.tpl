@@ -1,7 +1,7 @@
 ### hi !! i'm frérot
 welcome to my github! i love clean code 🧼, building projects, and learning new tools.
 
-**tech stack:** `.ts` `.js` `.java`
+**tech stack:** `.ts` `.java`
 
 #### 👷 the latest repos i've pushed to. (public)
 {{range recentContributions 2}}
